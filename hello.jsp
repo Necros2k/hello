@@ -11,7 +11,7 @@
 
      <body>
          Hi! Today:  <%= getFormattedDate () %>
-        This is version = 1.0.3
+        This is version = 1.0.4
      </body>
   </html>
 
